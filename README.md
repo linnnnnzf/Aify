@@ -1,2 +1,2 @@
-# aify
+# Aify
 AI For You
